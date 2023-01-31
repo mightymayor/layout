@@ -1,0 +1,194 @@
+/* Navbar css */
+
+.logo{
+    height: 40px;
+    width: 135px;
+    padding: 0 0 0 100px;
+}
+
+.title{
+    padding-left: 8px;
+    font-weight: 700;
+    color: #00BFA5 !important;
+}
+
+.sub-title{
+    color: grey !important;
+}
+
+.lists{
+    margin: 0 0 0 400px;
+}
+
+.about{
+    color: #00BFA5 !important;
+    font-weight: 500;
+}
+
+ /* Center logo */
+
+ .logo-div{
+    height: 120px;
+ }
+
+ .center-logo{
+    height: 40px;
+    margin: 30px 0 0 37rem;
+ }
+
+ /* first description div */
+
+ .logo-div2{
+    height: 80px;
+ }
+
+ .third-title{
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 0 16rem;
+    color: #00BFA5 !important;
+ }
+
+ .desc{
+    width: 500px;
+    height: 300px;
+    margin: 0 10px;
+    color: grey !important;
+    font-family: 'Roboto';
+    font-size: 20px;
+}
+
+/* the 3 boxes */
+
+.three-boxes{
+    margin: -100px 0 0 0;
+}
+
+.first-box{
+    background-color: #00BFA5 !important;
+    height: 320px;
+    width: 340px !important;
+    border-radius: 8px;
+    padding: 10px 15px;
+    color: white;
+}
+
+.second-box{
+    background-color: #3D83DF !important;
+    height: 320px;
+    width: 340px !important;
+    border-radius: 8px;
+    padding: 10px 15px;
+    color: white;
+}
+
+.third-box{
+    background-color: #1B2734 !important;
+    height: 320px;
+    width: 340px !important;
+    border-radius: 8px;
+    padding: 10px 15px;
+    color: white;
+}
+
+.selection{
+    border: none !important;
+    text-decoration: underline;
+    /* position: relative; */
+    /* display: inline-block; */
+    /* vertical-align: middle; */
+    /* outline: 0; */
+    background: none !important;
+    color: #fff !important;
+    font-family: Roboto,Arial,sans-serif;
+    font-weight: 400;
+    letter-spacing: .04em;
+    font-size: 1.2rem;
+    text-align: center;
+    transition: all .2s ease 0s;
+    cursor: pointer;
+    margin: 60px 0 0 10px ;
+    width: 180px !important;
+}
+
+option{
+    color: black;
+}
+
+/* banner area */
+
+.big-banner{
+    background-color: #D5F5F5;
+    margin: 60px 0 0 0;
+    height: 700px;
+}
+
+.banner-title{
+    color: #00BFA5 !important;
+    padding: 50px 0 0 90px;
+
+}
+
+.banner-subtitle{
+    color: grey;
+    margin: 30px 0 0 0;
+    padding: 0 0 0 90px;
+}
+
+.banner-logo{
+    margin: 40px 0 0 0;
+    height: 400px;
+    width: 600px;
+}
+
+.first-card{
+    width: 250px;
+    height: 280px;
+    margin: 40px 0 0 0;
+    border-radius: 8px;
+    border: none !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.second-card{
+    width: 250px;
+    height: 280px;
+    margin: 10px 0 0 20px;
+    border-radius: 8px;
+    border: none !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.third-card{
+    width: 250px;
+    height: 280px;
+    margin: 40px 0 0 0;
+    border-radius: 8px;
+    border: none !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.fourth-card{
+    width: 250px;
+    height: 280px;
+    margin: 10px 0 0 20px;
+    border-radius: 8px;
+    border: none !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxes1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxes2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
